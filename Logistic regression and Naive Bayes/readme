@@ -1,0 +1,2 @@
+Logistic Regression and Naive Bayes classifier is used on titanic dataset
+It was found that the accuracy of logistic regression model was better than that of Naive Bayes model.
